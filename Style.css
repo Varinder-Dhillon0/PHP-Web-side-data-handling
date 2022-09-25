@@ -1,0 +1,104 @@
+#main-content{
+    text-align: -webkit-center;
+    margin-top: 5%;
+}
+body{
+    margin: 0;
+}
+.background{
+    width: 41%;
+    margin-top: 8%;
+    background-color:  rgb(240,240,240);
+    padding-right: -52%;
+    text-align: -webkit-center;
+    padding-bottom: 2%;
+    padding-top: 1px;
+    margin-left: 31.5%;
+    border-radius: 9px;
+}
+h2{
+    background-color: antiquewhite;
+    padding: 10px;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 5%;
+    width: 50%;
+    border-radius: 19px;
+    border-bottom: 6px solid;
+    border-right: 6px solid;
+}
+table{
+    text-align: center;
+    font-size: 17px;
+    border-bottom: 7px solid;
+    border-radius: 11px;
+    border-right: 7px solid;
+}
+
+table th{
+    border: 0px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+table td{
+    border: 0px;
+    background-color: rgb(0, 207, 207);
+    color: black;
+    padding: 4px;
+}
+td a{
+    background-color: blanchedalmond;
+    text-decoration: none;
+    color: rgb(234, 8, 8);
+    border: 0;
+    padding: 3px;
+    border-radius: 11px;
+    border-bottom: 3px solid;
+    border-right: 3px solid;
+}
+
+#Id{
+    width: 64%;
+    padding: 11px;
+    background-color: cornsilk;
+    border: 0;
+    border-bottom: 2px solid black;
+}
+input[type="submit" i]{
+    padding: 10px;
+    background-color: darkorange;
+    color: white;
+    font-size: 14px;
+    border: 0;
+    border-radius: 13px;
+    width: 14%;
+    border-bottom: 4px solid;
+    border-right: 4px solid;
+    border-color: black;
+}
+#bottom{
+    margin-left: 23%;
+    margin-top: 5%;
+}
+#bottom a{
+    text-decoration: none;
+    color: blue;
+    border: 1px solid;
+    padding: 5px;
+    border-bottom: 4px solid;
+    border-right: 4px solid;
+    border-radius: 4px;
+    margin-left: 55%;
+}
+input[type="text" i],input[type="number" i]{
+    margin-bottom: 10px;
+}
+select{
+    width: 67.7%;
+    padding: 11px;
+    background-color: cornsilk;
+    border: 0;
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+}
