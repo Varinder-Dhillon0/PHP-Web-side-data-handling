@@ -1,5 +1,5 @@
 # Little Description
-This is basically all done in php project as one more step in web development.
+This is basically all done in php . project as one more step in web development.
 
 Done with apache server side handling  with mysql.
 CREATING,
